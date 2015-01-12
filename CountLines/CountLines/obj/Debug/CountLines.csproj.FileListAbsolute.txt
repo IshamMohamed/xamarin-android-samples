@@ -1,0 +1,13 @@
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\bin\Debug\CountLines.dll
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\bin\Debug\CountLines.pdb
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\bin\Debug\CountLines.dll.mdb
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\bin\Debug\CountLines.CountLines.apk
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\bin\Debug\CountLines.CountLines-Signed.apk
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\CountLines.dll
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\CountLines.pdb
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\android\bin\CountLines.CountLines.apk
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\res\layout\main.xml
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\res\values\strings.xml
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\res\drawable\icon.png
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\R.cs.flag
+C:\Users\Isham Mohamed\Documents\Projects\CountLines\CountLines\obj\Debug\uploadflags.txt
