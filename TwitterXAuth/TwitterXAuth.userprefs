@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="TwitterXAuth\TwitterXAuth.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwitterXAuth\MainActivity.cs">
+    <Files>
+      <File FileName="TwitterXAuth\MainActivity.cs" Line="8" Column="8" />
+      <File FileName="TwitterXAuth\Resources\values\Strings.xml" Line="2" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="TwitterXAuth" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="layout" expanded="True" />
+              <Node name="values" expanded="True">
+                <Node name="Strings.xml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TwitterXAuth MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

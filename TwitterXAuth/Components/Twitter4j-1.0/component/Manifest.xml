@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="Twitter4j">
+  <name>Twitter4j Android API</name>
+  <publisher>Michal Kieloch</publisher>
+  <publisher-url>http://www.ezappz.net</publisher-url>
+  <version>1.0</version>
+  <summary>This is a binding of the Twitter4j API for Android to access the Twitter API version 1.1</summary>
+  <samples>
+    <sample id="Twitter4jSample">
+      <name>Android Sample.</name>
+      <summary>Demonstrates basic use of the Twitter4j Library</summary>
+    </sample>
+  </samples>
+</component>
