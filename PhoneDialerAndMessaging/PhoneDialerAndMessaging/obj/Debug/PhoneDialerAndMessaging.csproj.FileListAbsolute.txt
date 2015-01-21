@@ -1,0 +1,17 @@
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\bin\Debug\PhoneDialerAndMessaging.dll
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\bin\Debug\PhoneDialerAndMessaging.pdb
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\bin\Debug\PhoneDialerAndMessaging.dll.mdb
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\bin\Debug\PhoneDialerAndMessaging.PhoneDialerAndMessaging.apk
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\bin\Debug\PhoneDialerAndMessaging.PhoneDialerAndMessaging-Signed.apk
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\PhoneDialerAndMessaging.dll
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\PhoneDialerAndMessaging.pdb
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\android\bin\PhoneDialerAndMessaging.PhoneDialerAndMessaging.apk
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\layout\main.xml
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\values\strings.xml
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\R.cs.flag
+C:\Users\Isham Mohamed\Documents\GitHub\xamarin-android-samples\PhoneDialerAndMessaging\PhoneDialerAndMessaging\obj\Debug\uploadflags.txt

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="PhoneDialerAndMessaging\PhoneDialerAndMessaging.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneDialerAndMessaging\MainActivity.cs">
+    <Files>
+      <File FileName="PhoneDialerAndMessaging\MainActivity.cs" Line="61" Column="61" />
+      <File FileName="PhoneDialerAndMessaging\Properties\AndroidManifest.xml" Line="12" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhoneDialerAndMessaging MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
